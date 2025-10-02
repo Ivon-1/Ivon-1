@@ -1,22 +1,23 @@
 ## 👋 ¡Hola! Soy Iván Álvarez García
+I am a web developer with a background in Web Application Development (DAW) and a strong passion for technology and building efficient digital solutions. I specialize in designing and developing intuitive, functional interfaces, always aiming to provide the best user experience.
 
-### Desarrollador Web | Frontend & Backend | Especializado en PHP, Laravel y React
+On the frontend, I have experience with HTML, CSS, JavaScript, Bootstrap, React, and SASS, which allows me to create dynamic and visually appealing applications. On the backend, I master PHP, Laravel, MySQL, and PostgreSQL, enabling me to build robust and optimized applications.
 
-Soy desarrollador web con formación en **Desarrollo de Aplicaciones Web (DAW)** y una gran pasión por la tecnología y la creación de soluciones digitales eficientes. Me especializo en el diseño y desarrollo de interfaces intuitivas y funcionales, siempre buscando la mejor experiencia de usuario.
+I work with Agile and Kanban methodologies, which help me manage projects efficiently and collaborate effectively within a team. I am proactive, organized, and highly adaptable, with a strong ability to learn quickly. I enjoy collaborating with multidisciplinary teams, solving problems, and keeping up with the latest trends in web development.
 
-En el **frontend**, tengo experiencia con **HTML**, **CSS**, **JavaScript**, **Bootstrap**, **React** y **SASS**, lo que me permite crear aplicaciones dinámicas y visualmente atractivas. En el **backend**, domino **PHP**, **Laravel** , **MySQL** y Postgre SQL, lo que me permite construir aplicaciones robustas y optimizadas.
+🎓 Education:
 
-Trabajo con **metodologías Agile** y **Kanban**, lo que facilita la gestión eficiente de proyectos y la colaboración en equipo. Soy una persona proactiva, organizada y con una gran capacidad de aprendizaje y adaptación. Me encanta colaborar en equipos multidisciplinarios, resolver problemas y estar al tanto de las últimas tendencias en desarrollo web.
+Web Application Development (DAW)
 
-🎓 **Formación destacada:**
-- **Desarrollo de Aplicaciones Web (DAW)**
+🛠️ Technologies I commonly work with:
 
-🛠️ **Tecnologías con las que suelo trabajar:**
-- **Frontend:** HTML, CSS, JavaScript, Bootstrap, React, SASS, TypeScript, Tailwind.
-- **Backend:** PHP, Laravel, MySQL , PostgreSQL. 
-- **Herramientas y Metodologías:** Git, GitHub, Docker, Agile, Kanban.
+Frontend: HTML, CSS, JavaScript, Bootstrap, React, SASS, TypeScript, Tailwind.
 
-🚀 **Siempre estoy en busca de nuevas formas de mejorar mis habilidades** y aplicar las mejores prácticas en cada proyecto que desarrollo. Me gusta construir soluciones eficientes y de alta calidad, manteniendo un enfoque constante en la optimización y escalabilidad.
+Backend: PHP, Laravel, MySQL, PostgreSQL.
+
+Tools & Methodologies: Git, GitHub, Docker, Agile, Kanban.
+
+🚀 I am always seeking new ways to improve my skills and apply best practices in every project I develop. I enjoy building efficient, high-quality solutions with a strong focus on optimization and scalability.
 
 📫 **Contacto:**  
 📧 IvanAlvz12@outlook.es  
