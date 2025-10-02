@@ -19,6 +19,6 @@ Tools & Methodologies: Git, GitHub, Docker, Agile, Kanban.
 
 🚀 I am always seeking new ways to improve my skills and apply best practices in every project I develop. I enjoy building efficient, high-quality solutions with a strong focus on optimization and scalability.
 
-📫 **Contacto:**  
+📫 **Contact:**  
 📧 IvanAlvz12@outlook.es  
 🔗 [LinkedIn](https://www.linkedin.com/in/ivan-alvarez-garcia2/)
