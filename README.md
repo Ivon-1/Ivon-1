@@ -1,4 +1,7 @@
-## 👋 ¡Hello! I´m [**Ivan Alvarez Garcia**](https://portafolio-tau-five-86.vercel.app/)
+##
+![Desarrollo seguro de software](https://www.unir.net/wp-content/uploads/2024/02/La-importancia-de-la-programacion-segura-o-desarrollo-seguro-de-software.jpg)
+
+👋 ¡Hello! I´m [**Ivan Alvarez Garcia**](https://portafolio-tau-five-86.vercel.app/)
 
 I am a web developer with a background in Web Application Development (DAW) and a strong passion for technology and building efficient digital solutions. I specialize in designing and developing intuitive, functional interfaces, always aiming to provide the best user experience.
 
